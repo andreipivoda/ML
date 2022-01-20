@@ -1,7 +1,8 @@
-# **Installing**
+# **Install TF on Apple M1**
 
 ### Make and activate Conda environment.
-```conda create --prefix ./env
+```
+conda create --prefix ./env
 conda activate ./env
 ```
 
